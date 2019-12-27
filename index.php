@@ -10,3 +10,7 @@ if (file_exists('route/web.php')) {
 	die('Website dang bao tri');
 }
 //them comment
+
+if(1 <3 )
+echo "ong day toi android nho"
+
