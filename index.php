@@ -1,14 +1,7 @@
 <?php 
 session_start();
 //dasdafsrgfad
-
-if (file_exists('route/web.php')) {
-	define('APP_PATH', 'index.php');
-	require_once 'application/helper/common_helper.php';	
-	require 'route/web.php';
-}else{
-	die('Website dang bao tri');
-}
+DAY DIT ME MAY NUA
 //them comment
 
 if(1 <3 )
